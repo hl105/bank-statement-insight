@@ -21,7 +21,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-***You will need a OpenAI GPT API KEY***. When you run the app (command below), it will prompt you for a GPT API Key and save it in the file `api_key` **ON THE CONSOLE** 
+***You will need a OpenAI GPT API KEY***. When you run the app (command below), it will prompt you for a GPT API Key **ON THE CONSOLE** and save it in the file `api_key`
 
 Run the app:
 ```
