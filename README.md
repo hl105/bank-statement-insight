@@ -11,7 +11,7 @@ Upload your bank statement PDF via the Streamlit dashboard.
 The app will parse the PDF and extract transaction data, storing it in the SQLite database.
 View and interact with your transaction data using the tools provided by the app. Generate statistics and visualizations to analyze your spending patterns.
 
-Everything (i.e. your data) stays local. (Although streamlit will open in your browser, notice how in the url section you will see `localhost`.) The app is not online, and openAI GPT API calls are only made for `transaction description category/place classification`.
+Everything (i.e. your data) stays local. (Although your browser will open, notice how in the url section you see `localhost`.) The app is not online, and openAI GPT API calls are only made for `transaction description category/place classification`.
 
 ## Installation
 Clone the repository and cd into it.
