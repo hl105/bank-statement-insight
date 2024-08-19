@@ -52,10 +52,10 @@ If you are having issues, please refer to the [troubleshooting section](#trouble
 
 
 ## Project Structure
-`landing_page.py`: The main entry point for the Streamlit app.
-`models.py:` Contains the SQLAlchemy models for the database and Utility functions for PDF parsing, data manipulation, etc.
-`user_db.db`: The SQLite database where all data is stored.
-`requirements.txt`: A list of Python packages required to run the project.
+- `landing_page.py`: The main entry point for the Streamlit app.
+- `models.py:` Contains the SQLAlchemy models for the database and Utility functions for PDF parsing, data manipulation, etc.
+- `user_db.db`: The SQLite database where all data is stored. Automatically created when user uploads data on dashboard
+  
 ### Example:
 ![dashboard image](readme_assets/landing_page.png)
 ![edit page](readme_assets/edit_data.png)
