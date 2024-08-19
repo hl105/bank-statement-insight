@@ -1,0 +1,6 @@
+.DS_Store
+file.log
+api_key
+user_db.db
+__pycache__/
+/venv
