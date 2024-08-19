@@ -28,7 +28,7 @@ Run the app:
 streamlit run landing_page.py
 ```
 
-If you are having issues, please refer to the [troubleshooting section](##troubleshooting).
+If you are having issues, please refer to the [troubleshooting section](#troubleshooting).
 
 
 ## Features
